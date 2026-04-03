@@ -43,6 +43,16 @@
 
 ---
 
+## 🧠 Technical Skills
+- Backend Development (Flask, Java)
+- Database Design & SQL Optimization
+- Network Traffic Analysis (Wireshark)
+- Cybersecurity Fundamentals
+- Digital Forensics Basics
+- Secure Coding Practices
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayS2020git&theme=radical)
