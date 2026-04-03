@@ -34,6 +34,9 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+### 🛡️ Security Operations & Incident Response
+![TheHive](https://img.shields.io/badge/TheHive-F9A825?style=for-the-badge&logo=thehive&logoColor=black)
+
 ---
 
 ## 📊 GitHub Stats
