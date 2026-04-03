@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Cybersecurity+Enthusiast;C+%7C+Python+%7C+Java;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;C+%7C+Python+%7C+Java;Always+Learning...)
 
 ---
 
