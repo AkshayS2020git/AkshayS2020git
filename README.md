@@ -37,6 +37,10 @@
 ### 🛡️ Security Operations & Incident Response
 ![TheHive](https://img.shields.io/badge/TheHive-F9A825?style=for-the-badge&logo=thehive&logoColor=black)
 
+### 🕵️ Digital Forensics
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2C2C2C?style=for-the-badge&logo=windows&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-4CAF50?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
