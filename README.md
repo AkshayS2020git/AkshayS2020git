@@ -34,13 +34,13 @@
 
 ## 📊 GitHub Stats
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayS2020git&show_icons=true&theme=tokyonight)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayS2020git&show_icons=true&theme=dracula)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkshayS2020git&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkshayS2020git&theme=dracula)
 
 ---
 
