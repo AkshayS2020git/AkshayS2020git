@@ -47,10 +47,10 @@
 ## 📌 Featured Projects
 
 - 🔹 **Online Shipment System**  
-  → Deployment stratergy for shipments   
+  → Deployment strategy for shipments   
 
 - 🔹 **Data Structures Implementations**  
-  → Codes for concepts of data structures 
+  → Codes depicting core concepts of data structures 
 
 ---
 
