@@ -40,7 +40,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkshayS2020git&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkshayS2020git&theme=radical)
 
 ---
 
