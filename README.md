@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Student passionate about building software and solving real-world problems  
+- 🎓 Passionate about building software and solving real-world problems  
 - 💻 Focused on backend development and database-driven systems  
 - 🔐 Actively exploring cybersecurity and system security concepts  
 - 🌱 Currently learning: Advanced Java, Flask, Cybersecurity concepts and Network Analysis
