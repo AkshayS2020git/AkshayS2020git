@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshay
+# 👋 Hi, I'm Akshay Sujesh
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;C+%7C+Python+%7C+Java;Always+Learning...)
 
@@ -8,8 +8,8 @@
 - 🎓 Student passionate about building software and solving real-world problems  
 - 💻 Focused on backend development and database-driven systems  
 - 🔐 Actively exploring cybersecurity and system security concepts  
-- 🌱 Currently learning: Advanced Java, Flask, and Cybersecurity fundamentals  
-- 🎯 Goal: Become a Backend / Security-focused Developer  
+- 🌱 Currently learning: Advanced Java, Flask, Cybersecurity concepts and Network Analysis
+- 🎯 Goal: Become a Security-focused Developer  
 
 ---
 
@@ -46,21 +46,21 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **Library Management System**  
-  → Java-based system using OOP concepts  
+- 🔹 **Online Shipment System**  
+  → Deployment stratergy for shipments   
 
-- 🔹 **Online Shopping System**  
-  → Cart + Payment Strategy implementation  
-
-- 🔹 **Streaming Platform Service**  
-  → Flask + MySQL backend project  
+- 🔹 **Data Structures Implementations**  
+  → Codes for concepts of data structures 
 
 ---
 
 ## 🎯 Current Focus
 - Backend Development (Flask / Java)  
-- Cybersecurity fundamentals & secure coding practices  
-- Database Design & Optimization  
+- Cybersecurity fundamentals & secure coding practices
+- Incident Response & Digital Forensics
+- Artificial Intelligence usage in cybersecurity  
+- Database Design, Security & Optimization
+- Network Analysis  
 
 ---
 
