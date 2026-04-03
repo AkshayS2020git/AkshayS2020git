@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayS2020git&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayS2020git&theme=radical)
 
 ---
 
