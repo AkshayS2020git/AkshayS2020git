@@ -66,8 +66,8 @@
 
 ## 🌐 Connect With Me
 - 💼 GitHub: https://github.com/AkshayS2020git  
-- 🔗 LinkedIn: (add your link here)  
-- 🌍 Portfolio: (add later)
+- 🔗 LinkedIn: -
+- 🌍 Portfolio: -
 
 ---
 
