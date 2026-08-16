@@ -54,16 +54,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🔹 **Online Shipment System**  
-  → Deployment strategy for shipments   
-
-- 🔹 **Data Structures Implementations**  
-  → Codes depicting core concepts of data structures 
-
----
-
 ## 🎯 Current Focus
 - Backend Development (Flask / Java)  
 - Cybersecurity fundamentals & secure coding practices
