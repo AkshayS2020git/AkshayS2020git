@@ -86,17 +86,7 @@ status:    Learn -> Build -> Test -> Secure
 
 ---
 
-## `03` — Selected Projects
-
-| Project                                                                              | Description                                                                                                                                 | Stack                       |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [**Metadata Sync Service**](https://github.com/AkshayS2020git/Metadata_Sync_Service) | REST service for syncing TCM execution metadata to MinIO, with validation, duplicate detection, overwrite support and sync status tracking. | `Node.js` `Express` `MinIO` |
-| [**Syncverse**](https://github.com/AkshayS2020git/Syncverse)                         | Explore the repository for project details.                                                                                                 | See repository              |
-| [**Smart Exam App**](https://github.com/AkshayS2020git/AkshaySujesh_SmartExamApp)    | Explore the repository for project details.                                                                                                 | See repository              |
-
----
-
-## `04` — Currently Exploring
+## `03` — Currently Exploring
 
 ```text
 [+] Secure application development
@@ -109,7 +99,7 @@ status:    Learn -> Build -> Test -> Secure
 
 ---
 
-## `05` — GitHub Activity
+## `04` — GitHub Activity
 
 <div align="center">
 
@@ -125,7 +115,7 @@ status:    Learn -> Build -> Test -> Secure
 
 ---
 
-## `06` — Find Me Online
+## `05` — Find Me Online
 
 <p align="center">
   <a href="https://github.com/AkshayS2020git">
@@ -137,6 +127,3 @@ status:    Learn -> Build -> Test -> Secure
   <sub><i>Build securely. Break responsibly. Learn relentlessly.</i></sub>
 </p>
 
-<p align="center">
-  <sub>All security testing is performed in authorised lab environments.</sub>
-</p>
