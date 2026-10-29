@@ -1,10 +1,25 @@
 <div align="center">
 
-<h1>⟢ AKSHAY // SUJESH ⟣</h1>
+<h1><> AKSHAY SUJESH </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C5FF4A&center=true&vCenter=true&width=500&height=35&lines=Initializing+security+modules...;System+status%3A+ONLINE;Build+%2F+Break+%2F+Secure" alt="Terminal animation"/>
+```text
+┌──────────────────────────────────────┐
+│                                      │
+│  > Cybersecurity                     │
+│  > Digital Forensics                 │
+│  > Backend Development               │
+│  > Local AI & Automation             │
+│                                      │
+│  STATUS: LEARNING / BUILDING         │
+│         / SECURING                   │
+│                                      │
+└──────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C5FF4A&center=true&vCenter=true&width=500&height=35&lines=Initializing+security+modules...;Loading+developer+profile...;System+status%3A+ONLINE;Build+%2F+Break+%2F+Secure" alt="Terminal status animation"/>
 
 </div>
+
 
 
 ---
