@@ -7,6 +7,7 @@
 │                                      │
 │  > Cybersecurity                     │
 │  > Digital Forensics                 │
+│  > Malware RE                        │
 │  > Backend Development               │
 │  > Local AI & Automation             │
 │                                      │
