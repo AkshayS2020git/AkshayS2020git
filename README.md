@@ -101,17 +101,14 @@ status:    Learn -> Build -> Test -> Secure
 
 ## `04` — GitHub Activity
 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshayS2020git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5FF4A&text_color=E5E5E5&icon_color=C5FF4A" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=AkshayS2020git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5FF4A&text_color=E5E5E5&icon_color=C5FF4A" alt="GitHub profile statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayS2020git&layout=compact&hide_border=true&bg_color=0D1117&title_color=C5FF4A&text_color=E5E5E5" alt="Most used languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkshayS2020git&layout=compact&hide_border=true&bg_color=0D1117&title_color=C5FF4A&text_color=E5E5E5" alt="Most used languages"/>
 
 </div>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayS2020git&bg_color=0D1117&color=C5FF4A&line=32CD32&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</p>
 
 ---
 
