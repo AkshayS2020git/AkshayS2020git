@@ -31,9 +31,6 @@ role:      Aspiring Security Engineer
 focus:     Cybersecurity & Digital Forensics
 builds:    Web Apps, REST APIs & Backend Services
 security:  Kali Linux, Nmap, SQLmap, DVWA, Docker
-ai:        Local LLMs, Ollama & Automation
-editor:    VS Code
-os:        Linux
 status:    Learn -> Build -> Test -> Secure
 ```
 
