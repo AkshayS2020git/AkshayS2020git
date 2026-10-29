@@ -1,24 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&height=65&lines=AKSHAY+SUJESH;SOFTWARE+%2F+SECURITY;BUILD.+BREAK.+SECURE." alt="Akshay Sujesh" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=AKSHAY%20SUJESH&fontColor=00F7FF&fontSize=48&fontAlignY=50&font=Orbitron&desc=SOFTWARE%20%2F%20SECURITY&descSize=14&descColor=8A2BE2&descAlignY=80" width="100%" alt="AKSHAY SUJESH — Cybersecurity and Software Development"/>
 
 <br/>
 
-<code>┌──(akshay㉿github)-[~]</code>
+```text
+┌──(akshay㉿github)-[~]
+└─$ ./build-break-secure.sh
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=480&height=35&lines=%24+BUILD...;[OK]+BUILD+COMPLETE;%24+BREAK...;[OK]+TESTS+COMPLETE;%24+SECURE...;[OK]+SYSTEM+SECURE" alt="Animated terminal sequence"/>
 
 <br/><br/>
 
-<a href="https://github.com/AkshayS2020git">
-  <img src="https://img.shields.io/badge/GitHub-AkshayS2020git-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
-</a>
 <img src="https://img.shields.io/badge/CYBERSECURITY-00F7FF?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/SOFTWARE_DEV-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Software Development"/>
 
 <br/><br/>
 
-**Build systems. Break assumptions. Secure what matters.**
+<em>Understand the system. Challenge its limits. Secure the result.</em>
 
 </div>
+
+---
+
 
 ---
 
@@ -38,12 +43,13 @@ interests:
   - Software Engineering
   - AI & Local LLMs
   - Backend Systems & Automation
-mindset: Learn → Build → Test → Improve
+mindset: Learn -> Build -> Test -> Improve
+status: Always learning
 ```
 
-I'm a computer science student interested in building useful software, understanding how systems work, and exploring how they can be secured.
+Computer science student interested in building useful software, understanding how systems work, and exploring how they can be secured.
 
-Currently exploring the intersection of **software engineering, cybersecurity, and AI** through hands-on projects and technical labs.
+My interests span **software development, cybersecurity, and AI**, with a focus on practical projects and hands-on learning.
 
 ---
 
@@ -51,19 +57,19 @@ Currently exploring the intersection of **software engineering, cybersecurity, a
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Programming languages"/>
 
-### Frameworks & Backend
+**FRAMEWORKS & BACKEND**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring,vite" alt="Frameworks and backend technologies"/>
 
-### Databases, Tools & Infrastructure
+**DATABASES & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,linux,windows" alt="Databases and developer tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,linux,windows" alt="Databases and development tools"/>
 
-### AI & Security
+**AI & SECURITY**
 
 <img src="https://skillicons.dev/icons?i=ollama,bash" alt="AI and command-line tools"/>
 
@@ -79,68 +85,55 @@ Currently exploring the intersection of **software engineering, cybersecurity, a
 
 ---
 
-## `03 // FEATURED PROJECTS`
+## `03 // CURRENT INTERESTS`
 
-### `01.` Metadata Sync Service
+```text
+[01] SECURITY
+     ├── Network reconnaissance
+     ├── Web application security
+     └── Digital forensics
 
-**Backend Engineering · REST APIs · Object Storage**
+[02] ENGINEERING
+     ├── Backend systems & REST APIs
+     ├── Full-stack development
+     └── Automation
 
-A service for synchronizing test execution metadata with MinIO object storage.
-
-* Metadata validation and synchronization workflows.
-* Duplicate reference detection and overwrite handling.
-* Structured storage paths and synchronization status tracking.
-
-`Node.js` `Express` `REST API` `MinIO`
-
-<div align="left">
-<a href="https://github.com/AkshayS2020git/Metadata_Sync_Service">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Metadata Sync Service"/>
-</a>
-</div>
-
-### `02.` Syncverse
-
-**Software Development · Integration · Automation**
-
-A software project focused on building and integrating application components.
-
-`Software Engineering` `Development`
-
-<div align="left">
-<a href="https://github.com/AkshayS2020git/Syncverse">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Syncverse"/>
-</a>
-</div>
-
-### `03.` Smart Exam App
-
-**Application Development · Computer Science**
-
-An application development project focused on a smart examination experience.
-
-`Java` `Application Development`
-
-<div align="left">
-<a href="https://github.com/AkshayS2020git/AkshaySujesh_SmartExamApp">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Smart Exam App"/>
-</a>
-</div>
-
-### `04.` Cybersecurity Labs
-
-**Network Reconnaissance · Web Security · Digital Forensics**
-
-Hands-on security exercises exploring network scanning, service enumeration, web vulnerabilities, and security testing.
-
-`Kali Linux` `Nmap` `DVWA` `SQLmap`
+[03] EXPLORATION
+     ├── AI & local language models
+     ├── Developer tooling
+     └── Linux environments
+```
 
 ---
 
-## `04 // GITHUB ANALYTICS`
+## `04 // GITHUB ACTIVITY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshayS2020git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayS2020git&bg_color=0D1117&color=C9D1D9&line=00F7FF&point=8A2BE2&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
 
-<img width="49%" src
+</div>
+
+---
+
+## `05 // CONTRIBUTIONS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkshayS2020git&show_icons=true&hide_border=true&theme=transparent&title_color=00F7FF&icon_color=8A2BE2&text_color=C9D1D9" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayS2020git&layout=compact&hide_border=true&theme=transparent&title_color=00F7FF&text_color=C9D1D9" height="165" alt="Most used languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&height=30&lines=%5B+SYSTEM+STATUS+%3A+ONLINE+%5D;LEARN.+BUILD.+SECURE.;%5B+END_OF_FILE+%5D" alt="System status"/>
+
+<a href="https://github.com/AkshayS2020git">
+  <img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Connect on GitHub"/>
+</a>
+
+</div>
