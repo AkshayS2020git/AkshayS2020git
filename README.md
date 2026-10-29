@@ -1,27 +1,18 @@
 <div align="center">
 
-```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  AKSHAY SUJESH                                   │
+│  ──────────────────────────────────────────────  │
+│  > Cybersecurity                                 │
+│  > Digital Forensics                             │
+│  > Backend Development                           │
+│  > Local AI & Automation                         │
+│                                                  │
+│  [ SYSTEM STATUS: LEARNING / BUILDING / SECURING ]│
+└──────────────────────────────────────────────────┘
 
- █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗   ██╗
-██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝
-███████║█████╔╝ ███████╗███████║███████║ ╚████╔╝
-██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║  ╚██╔╝
-██║  ██║██║  ██╗███████║██║  ██║██║  ██║   ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
-
-```
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C5FF4A&center=true&vCenter=true&width=600&height=45&lines=Aspiring+Security+Engineer;Cybersecurity+%26+Digital+Forensics;Secure+Backend+Development;Local+LLMs+%26+Automation" alt="Aspiring security engineer" />
-</p>
-
-<p>
-  <a href="https://github.com/AkshayS2020git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Cybersecurity-0A7E07?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C5FF4A&center=true&vCenter=true&width=600&height=35&lines=Initializing+security+modules...;Loading+developer+profile...;System+status%3A+ONLINE;Build+%2F+Break+%2F+Secure" alt="Terminal status animation"/>
 
 </div>
 
