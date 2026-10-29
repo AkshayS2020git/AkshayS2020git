@@ -104,7 +104,9 @@ status:    Learn -> Build -> Test -> Secure
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AkshayS2020git&theme=tokyonight&hide_border=true&ring=C5FF4A&fire=C5FF4A&currStreakLabel=C5FF4A" alt="Akshay Sujesh's GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=AkshayS2020git&theme=tokyonight&hide_border=true&ring=C5FF4A&fire=C5FF4A&currStreakLabel=C5FF4A" alt="GitHub Streak Stats" height="165"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkshayS2020git&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=C5FF4A&text_color=E5E5E5" alt="Most Used Languages" height="165"/>
 
 </div>
 
