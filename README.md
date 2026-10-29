@@ -28,3 +28,4 @@ $ cat akshay_profile.json
   "currently_exploring": ["AI-driven Threat Detection", "Advanced Java", "Network Packet Telemetry"],
   "philosophy": "Build systems that perform under load and hold under attack."
 }
+```
