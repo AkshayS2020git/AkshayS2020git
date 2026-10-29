@@ -49,6 +49,7 @@ status:    Learn -> Build -> Test -> Secure
   <img src="https://img.shields.io/badge/DVWA-CC3333?style=for-the-badge&logoColor=white" alt="DVWA"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Ghidra"/>
 </p>
 
 ### Languages
